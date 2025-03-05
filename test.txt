@@ -1,0 +1,63 @@
+HostName 7.216.56.180
+Port 30055
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\ZEZHONG_WULAN.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+Host ModelArts-Note-SA3
+
+Host ModelArts-Note-aclnn
+HostName 10.74.98.84
+Port 31986
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\zz_huanan.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
+Host ModelArts-Note-SA4_SINGALE
+HostName 7.216.56.180
+Port 31491
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\ZEZHONG_WULAN.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
+Host ModelArts-Note-starAttenSingleBlockTest
+HostName 7.216.56.180
+Port 31406
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\ZEZHONG_WULAN.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
+Host ModelArts-Note-7DxkB
+HostName 7.216.56.180
+Port 31237
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\ZEZHONG_WULAN.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
+Host ModelArts-Note-lastTest
+HostName 7.216.56.180
+Port 30325
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\ZEZHONG_WULAN.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
+Host ModelArts-Note-quantMMv4
+HostName 10.74.98.84
+Port 30628
+User ma-user
+IdentityFile C:\Users\z84397893\.ssh\zz_huanan.pem
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+ForwardAgent yes
+
